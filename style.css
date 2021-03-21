@@ -1,9 +1,21 @@
 #main{
-    
+    background-color: hsl(210, 50%, 90%);
+    padding: 25px
 }
 #header{
     text-align: center;
 }
 #img-div{
     text-align: center;
+    background-color: hsl(30, 50%, 90%);
+    margin: 10px 10px 10px 10px;
+    padding: 0px 0px 10px 0px;
+}
+
+#image{
+    max-width: 100%;
+    width: 750px;
+    height: auto;
+    margin: 25px 0px 15px 0px;
+    align-items: center;
 }
