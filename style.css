@@ -1,13 +1,15 @@
 #main{
-    background-color: hsl(210, 50%, 90%);
-    padding: 25px
+    background-color: hsl(0, 6%, 90%);
+    padding: 25px;
+    line-height: 200%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #header{
     text-align: center;
 }
 #img-div{
     text-align: center;
-    background-color: hsl(30, 50%, 90%);
+    background-color: hsl(0, 0%, 100%);
     margin: 10px 10px 10px 10px;
     padding: 0px 0px 10px 0px;
 }
