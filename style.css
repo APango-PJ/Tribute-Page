@@ -16,8 +16,11 @@
 
 #image{
     max-width: 100%;
+    display: block;
     width: 750px;
     height: auto;
     margin: 25px 0px 15px 0px;
-    align-items: center;
+}
+#tribute-link{
+  color: red;
 }
